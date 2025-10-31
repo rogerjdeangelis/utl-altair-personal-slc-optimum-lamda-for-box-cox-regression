@@ -9,6 +9,8 @@ Too log to post in listserv, see github
 github
 https://github.com/rogerjdeangelis/utl-altair-personal-slc-optimum-lamda-for-box-cox-regression
 
+graohic
+https://github.com/rogerjdeangelis/utl-altair-personal-slc-optimum-lamda-for-box-cox-regression/blob/main/boxcox_plot.pdf
 community.altair
 https://community.altair.com/discussion/64845/box-cox?tab=all#latest
 
